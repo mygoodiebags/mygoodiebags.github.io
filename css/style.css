@@ -1,0 +1,111 @@
+@font-face{
+    font-family:chinrg__;
+    src: url('font/chinrg__.ttf');
+}
+
+body{
+    font-family: 'chinrg__';
+}
+
+
+
+
+
+
+
+.lightpink{
+        background-color: lightpink;
+}
+.coral{
+        background-color: coral;
+}
+
+
+.skyblue{
+    background-color: skyblue;
+}
+
+.h1{
+    
+}
+    
+
+.h3{
+    
+}
+
+.h5{
+    
+}
+
+.h6{
+    
+}
+.child-header1{
+    height: 150px;
+    padding-top: 12px;
+    padding-bottom: 20px;
+}
+.child-header2{
+    height: 150px;
+    padding-top: 93px;
+}
+.child-header3{
+      height: 150px;
+    padding-top: 100px;  
+}
+.child-content{
+    height: 800px; 
+    padding-top: 100px;
+}
+.child-content1{
+    height: 400px; 
+    padding-top: 100px;
+}
+.child-content2{
+    height: 400px; 
+    padding-top: 100px;
+}
+
+.child-contentproduk1{
+    height: 400px; 
+    padding-top: 100px;
+}
+.child-contentproduk2{
+    height: 400px; 
+    padding-top: 100px;
+}
+
+
+
+
+.child-footer{
+    height: 400px;
+}
+
+.img-width-100{
+    width: 100% !important;
+    height: 700px !important;
+}
+
+<style> 
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 100%;
+}
+</style>
+
